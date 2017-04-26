@@ -1,0 +1,107 @@
+{
+	"nodes": [
+		{
+			"name": "CON2015"
+		},
+		{
+			"name": "LAB2015"
+		},
+		{
+			"name": "LIB2015"
+		},
+		{
+			"name": "UKIP2015"
+		},
+		{
+			"name": "Green2015"
+		},
+		{
+			"name": "Other2015"
+		},
+		{
+			"name": "CON2010"
+		},
+		{
+			"name": "LAB2010"
+		},
+		{
+			"name": "LIB2010"
+		},
+		{
+			"name": "UKIP2010"
+		},
+		{
+			"name": "Green2010"
+		},
+		{
+			"name": "Other2010"
+		}
+	],
+	"links": [
+		{
+			"source": 6,
+			"target": 0,
+			"value": 296
+		},
+		{
+			"source": 7,
+			"target": 1,
+			"value": 212
+		},
+		{
+			"source": 8,
+			"target": 0,
+			"value": 28
+		},
+		{
+			"source": 8,
+			"target": 1,
+			"value": 12
+		},
+		{
+			"source": 7,
+			"target": 0,
+			"value": 8
+		},
+		{
+			"source": 6,
+			"target": 1,
+			"value": 10
+		},
+		{
+			"source": 10,
+			"target": 4,
+			"value": 1
+		},
+		{
+			"source": 8,
+			"target": 2,
+			"value": 15
+		},
+		{
+			"source": 6,
+			"target": 3,
+			"value": 1
+		},
+		{
+			"source": 11,
+			"target": 5,
+			"value": 15
+		},
+		{
+			"source": 7,
+			"target": 5,
+			"value": 41
+		},
+		{
+			"source": 8,
+			"target": 5,
+			"value": 10
+		},
+		{
+			"source": 11,
+			"target": 2,
+			"value": 1
+		}
+	]
+}

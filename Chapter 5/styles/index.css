@@ -1,0 +1,54 @@
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+/* @TODO Update ch. 1 to remove axis stylings */
+
+.bar {
+  fill: steelblue;
+}
+
+
+.trippy {
+  animation: wheee 3s infinite;
+}
+
+@keyframes wheee {
+  0%   {stroke: red;}
+  25%  {stroke: yellow;}
+  50%  {stroke: blue;}
+  75%  {stroke: green;}
+  100% {stroke: red;}
+}
+
+.river {
+  fill: none;
+  stroke: #759dd1;
+  stroke-width: 1;
+}
+
+.land {
+  fill: #ede9c9;
+  stroke: #7b5228;
+  stroke-width: 1;
+}
+
+.boundary {
+  stroke: #7b5228;
+  stroke-width: 1;
+  fill: none;
+}
+
+.urban {
+  fill: #e1c0a3;
+}
+
+.map {
+  background: #79bcd3;
+}
+
+.route {
+  stroke-width: 2px;
+  stroke: goldenrod;
+}

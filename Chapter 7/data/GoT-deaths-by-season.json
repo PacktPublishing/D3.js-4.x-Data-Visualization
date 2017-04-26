@@ -1,0 +1,1008 @@
+{
+  "name": "Game of Thrones, death by season and episode",
+  "source": "http://time.com/3924852/every-game-of-thrones-death/",
+  "data": [
+    {
+      "name": "Will",
+      "role": "Ranger of the Night’s Watch",
+      "death": {
+        "season": 1,
+        "episode": 1
+      },
+      "execution": "Beheaded for desertion by Ned Stark",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Jon Arryn",
+      "role": "Hand to the King before Ned Stark",
+      "death": {
+        "season": 1,
+        "episode": 1
+      },
+      "execution": "Poisoned by Lysa Arryn and Littlefinger",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Jory Cassel",
+      "role": "Captain of the guards to House Stark",
+      "death": {
+        "season": 1,
+        "episode": 5
+      },
+      "execution": "Stabbed by Jaime Lannister through the eye",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Viserys Targaryen",
+      "role": "Exiled head of House Targaryen and brother to Daenerys Targaryen",
+      "death": {
+        "season": 1,
+        "episode": 6
+      },
+      "execution": "Khal Drogo pours molten gold on his head at Daenerys’ command",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Benjen Stark",
+      "role": "First Ranger of the Night’s Watch, Brother of Ned Stark",
+      "death": {
+        "season": 1,
+        "episode": 7
+      },
+      "execution": "Unknown",
+      "likelihoodOfReturn": "15% (He could have survived all this time—or become a wight)"
+    },
+    {
+      "name": "Robert Baratheon",
+      "role": "Lord of the Seven Kingdoms",
+      "death": {
+        "season": 1,
+        "episode": 7
+      },
+      "execution": "Mortally wounded by a wild boar after drinking wine given to him by Lancel Lannister at Cersei Lannister’s command",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Syrio Forel",
+      "role": "Master sword fighter and Arya Stark’s instructor in combat",
+      "death": {
+        "season": 1,
+        "episode": 8
+      },
+      "execution": "Presumably killed by Ser Meryn in a sword fight (he was only armed with a training sword)",
+      "likelihoodOfReturn": "30% (We never actually see him die. He was a master swordsman, after all.)"
+    },
+    {
+      "name": "Eddard Stark",
+      "role": "Hand of the King and Lord of the North",
+      "death": {
+        "season": 1,
+        "episode": 9
+      },
+      "execution": "Beheaded by Ser Ilyn Payne at the order of Joffrey Baratheon",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Drogo",
+      "role": "Chieftain of the Dothraki people and husband of Daenerys Targaryen",
+      "death": {
+        "season": 1,
+        "episode": 10
+      },
+      "execution": "Smothered by Daenerys Targaryen in a mercy killing after a spell by Mirri Maz Duur leaves him in a catatonic state",
+      "likelihoodOfReturn": "0% (Unless it’s in another vision like Daenerys had in season 2)"
+    },
+    {
+      "name": "Rhaego",
+      "role": "Son of Khal Drogo and Khaleesi Daenerys Targaryen",
+      "death": {
+        "season": 1,
+        "episode": 10
+      },
+      "execution": "Stillborn because of a blood magic ritual performed by Mirri Maz Duur",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Mirri Maz Duur",
+      "role": "Enslaved godswife",
+      "death": {
+        "season": 1,
+        "episode": 10
+      },
+      "execution": "Burned alive on Drogo’s funeral pyre by Daenerys Targaryen",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Rakharo",
+      "role": "Dothraki bodyguard to Daenerys Targaryen",
+      "death": {
+        "season": 2,
+        "episode": 2
+      },
+      "execution": "Killed and decapitated by a rival khalasar while scouting the Red Waste",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Yoren",
+      "role": "Recruiter for the Night’s Watch",
+      "death": {
+        "season": 2,
+        "episode": 3
+      },
+      "execution": "Killed by Ser Amory Lorch, loyal to House Lannister, in a fight",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Renly Baratheon",
+      "role": "Master of Laws, Claimant to the Iron Throne, brother of Robert and Stannis Baratheon",
+      "death": {
+        "season": 2,
+        "episode": 5
+      },
+      "execution": "Killed by a shadow with Stannis Baratheon’s face that was birthed by Melisandre",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Rodrik Cassel",
+      "role": "Master-at-Arms at Winterfell, Servant of House Stark",
+      "death": {
+        "season": 2,
+        "episode": 6
+      },
+      "execution": "Decapitated by Theon Greyjoy",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Irri",
+      "role": "Dothraki handmaiden to Daenerys Targaryen",
+      "death": {
+        "season": 2,
+        "episode": 7
+      },
+      "execution": "Murdered during Xaro Xhoan Daxos’ theft of the dragons at Qarth",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Maester Luwin",
+      "role": "Maester of Winterfell",
+      "death": {
+        "season": 2,
+        "episode": 10
+      },
+      "execution": "Osha ends his suffering after he is stabbed with a spear by ironborn raider Dagmer",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Qhorin",
+      "role": "Night’s Watch ranger",
+      "death": {
+        "season": 2,
+        "episode": 10
+      },
+      "execution": "Killed by Jon Snow (at Qhorin’s own behest) in order to trick the Wildlings into thinking Jon has left the Night’s Watch",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Pyat Pree",
+      "role": "Warlock from Qarth, Member of the Thirteen",
+      "death": {
+        "season": 2,
+        "episode": 10
+      },
+      "execution": "Burned alive by Daenerys Targaryen’s dragons",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Doreah",
+      "role": "Handmaiden to Daenerys Targaryen",
+      "death": {
+        "season": 2,
+        "episode": 10
+      },
+      "execution": "Locked with Xaro Xhoan Daxos inside a Valyrian stone vault by Jorah Mormont at the order of Daenerys Targaryen",
+      "likelihoodOfReturn": "1% (We didn’t actually see her die, but unlikely save a miracle)"
+    },
+    {
+      "name": "Xaro Xhoan Daxos",
+      "role": "Merchant in Qarth",
+      "death": {
+        "season": 2,
+        "episode": 10
+      },
+      "execution": "Locked in a Valyrian stone vault by Jorah Mormont on the orders of Daenerys Targaryen",
+      "likelihoodOfReturn": "1% (Again, we didn’t actually see him die)"
+    },
+    {
+      "name": "Hoster Tully",
+      "role": "Lord of Riverrun, Father of Edmure Tully, Catelyn Stark and Lysa Arryn",
+      "death": {
+        "season": 3,
+        "episode": 3
+      },
+      "execution": "Illness",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Jeor Mormont",
+      "role": "Lord Commander of the Night’s Watch",
+      "death": {
+        "season": 3,
+        "episode": 4
+      },
+      "execution": "Stabbed to death by Night’s Watchman Rast during a mutiny",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Craster",
+      "role": "A Wildling who lived with his daughter-wives beyond the Wall",
+      "death": {
+        "season": 3,
+        "episode": 4
+      },
+      "execution": "Killed by Karl Tanner, a Night’s Watchman",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Kraznys",
+      "role": "Salve-trader in Slaver’s Bay and one of the Good Masters",
+      "death": {
+        "season": 3,
+        "episode": 4
+      },
+      "execution": "Burned alive by Drogon after he tries to trade the Unsullied for the dragon and insults Daenerys",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Beric Dondarrion",
+      "role": "Leader of Brotherhood Without Banners",
+      "death": {
+        "season": 3,
+        "episode": 5
+      },
+      "execution": "Killed by the Hound in trial by combat",
+      "likelihoodOfReturn": "100% (He’s already back! Thoros of Myr has resuscitated Dondarrion six times via prayers to the Lord of Light)"
+    },
+    {
+      "name": "Ros",
+      "role": "Prostitute in Littlefinger’s brothel and spy for Varys",
+      "death": {
+        "season": 3,
+        "episode": 6
+      },
+      "execution": "Shot by Joffrey Baratheon with a crossbow",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Talisa Stark",
+      "role": "Wife of Robb Stark",
+      "death": {
+        "season": 3,
+        "episode": 9
+      },
+      "execution": "Stabbed in the stomach while pregnant by Lothar Frey at the Red Wedding",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Robb Stark",
+      "role": "King of the North, son of Lord Eddard Stark and Lady Catelyn of Winterfell",
+      "death": {
+        "season": 3,
+        "episode": 9
+      },
+      "execution": "Shot by a Frey crossbowman and then stabbed through the heart by Roose Bolton at the Red Wedding",
+      "likelihoodOfReturn": "Likelihood to return: 0%"
+    },
+    {
+      "name": "Catelyn Stark",
+      "role": "Wife of Eddard Stark, Mother of Robb, Sansa, Arya, Bran and Rickon",
+      "death": {
+        "season": 3,
+        "episode": 9
+      },
+      "execution": "Throat slit by Black Walder Rivers at the Red Wedding",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Polliver",
+      "role": "Man-at-arms for House Lannister",
+      "death": {
+        "season": 4,
+        "episode": 1
+      },
+      "execution": "Stabbed in the throat by Arya Stark",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Tansy",
+      "role": "Servant of House Bolton",
+      "death": {
+        "season": 4,
+        "episode": 2
+      },
+      "execution": "Hunted down by Ramsay Snow and eaten by his dogs",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Joffrey Baratheon",
+      "role": "Lord of the Seven Kingdoms",
+      "death": {
+        "season": 4,
+        "episode": 2
+      },
+      "execution": "Poisoned at the Purple Wedding by Olenna Tyrell and Littlefinger",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Karl Tanner",
+      "role": "Brother of the Night’s Watch, leader of the mutiny at Craster’s Keep",
+      "death": {
+        "season": 4,
+        "episode": 5
+      },
+      "execution": "Impaled by Jon Snow during the raid on Craster’s Keep",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Locke",
+      "role": "Man-at-arms for House Bolton",
+      "death": {
+        "season": 4,
+        "episode": 5
+      },
+      "execution": "Neck snapped by Bran Stark while Bran is warging into Hodor",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Rast",
+      "role": "Ranger in the Night’s Watch",
+      "death": {
+        "season": 4,
+        "episode": 5
+      },
+      "execution": "Ripped apart by Jon’s direwolf, Ghost, during the raid on Craster’s Keep",
+      "likelihoodOfReturn": "Likelihood to return: 0%"
+    },
+    {
+      "name": "Lysa Arryn",
+      "role": "Lady Regent of the Vale, sister to Catelyn Stark, briefly the wife of Littlefinger",
+      "death": {
+        "season": 4,
+        "episode": 7
+      },
+      "execution": "Pushed out of the Moon Door by Littlefinger",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Oberyn Martell",
+      "role": "Prince of the House Martell",
+      "death": {
+        "season": 4,
+        "episode": 8
+      },
+      "execution": "Skull crushed by the Mountain in a trial by combat",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "The Mountain",
+      "role": "Knight and Head of House Clegane, loyal to House Lannister",
+      "death": {
+        "season": 4,
+        "episode": 8
+      },
+      "execution": "Poisoned by the spear of Oberyn Martell in a trial by combat",
+      "likelihoodOfReturn": "100% (Reanimated by Qyburn)"
+    },
+    {
+      "name": "Grenn",
+      "role": "Ranger in the Night’s Watch",
+      "death": {
+        "season": 4,
+        "episode": 9
+      },
+      "execution": "Killed fighting the giant Mag the Mighty in the Battle of Castle Black",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Mag the Mighty",
+      "role": "Giant fighting in Mance Rayder’s army",
+      "death": {
+        "season": 4,
+        "episode": 9
+      },
+      "execution": "Killed by Grenn and five other members of the Night’s Watch in the Battle of Castle Black",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Pyp",
+      "role": "Brother of the Night’s Watch",
+      "death": {
+        "season": 4,
+        "episode": 9
+      },
+      "execution": "Shot through the neck with an arrow by Ygritte during the Battle of Castle Black",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Styr",
+      "role": "Thenn fighting in Mance Rayder’s army",
+      "death": {
+        "season": 4,
+        "episode": 9
+      },
+      "execution": "Bludgeoned in the head with a hammer by Jon Snow during the Battle of Castle Black",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Ygritte",
+      "role": "Soldier in Mance Rayder’s army and Jon Snow’s lover",
+      "death": {
+        "season": 4,
+        "episode": 9
+      },
+      "execution": "Shot with an arrow by Olly in the Battle of Castle Black",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Jojen Reed",
+      "role": "Warg, brother of Meera Reed, traveling companion of Bran Stark",
+      "death": {
+        "season": 4,
+        "episode": 10
+      },
+      "execution": "Mercy killed by Meera after being stabbed multiple times by a wight; burned by a fireball thrown by “the Children”",
+      "likelihoodOfReturn": "30% (Could Jojen have warged into someone or something before he died?)"
+    },
+    {
+      "name": "Shae",
+      "role": "Prostitute and girlfriend of Tyrion Lannister",
+      "death": {
+        "season": 4,
+        "episode": 10
+      },
+      "execution": "Strangled to death by Tyrion Lannister",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Tywin Lannister",
+      "role": "Head of House Lannister, Lord of Casterly Rock, father of Cersei, Jaime and Tyrion Lannister",
+      "death": {
+        "season": 4,
+        "episode": 10
+      },
+      "execution": "Shot on the toilet by Tyrion with a crossbow",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Mance Rayder",
+      "role": "Leader of the Free Folk",
+      "death": {
+        "season": 5,
+        "episode": 1
+      },
+      "execution": "Shot with a mercy arrow by Jon Snow before he’s burned alive",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Janos Slynt",
+      "role": "Former commander of the City Watch in King’s Landing, exiled to Night’s Watch by Tyrion Lannister",
+      "death": {
+        "season": 5,
+        "episode": 3
+      },
+      "execution": "Beheaded for insubordination by Jon Snow",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Barristan Selmy",
+      "role": "Former member of the Kingsguard, advisor of Daenerys Targaryen",
+      "death": {
+        "season": 5,
+        "episode": 4
+      },
+      "execution": "Killed fighting the Sons of the Harpy in Meereen",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Maester Aemon",
+      "role": "Maester at Castle Black",
+      "death": {
+        "season": 5,
+        "episode": 7
+      },
+      "execution": "Dies of old age",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Karsi",
+      "role": "Chieftainess of the Ice-river clans",
+      "death": {
+        "season": 5,
+        "episode": 8
+      },
+      "execution": "Mauled to death by Wights",
+      "likelihoodOfReturn": "100% (We see her become a wight)"
+    },
+    {
+      "name": "Shireen Baratheon",
+      "role": "Daughter of Stannis and Selyse Baratheon",
+      "death": {
+        "season": 5,
+        "episode": 9
+      },
+      "execution": "Burned alive as a sacrifice to the Lord of Light by Melisandre at the order of Stannis Baratheon",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Hizdahr zo Loraq",
+      "role": "Scion of the House Loraq, former slave trader, husband of Daenerys Targaryen",
+      "death": {
+        "season": 5,
+        "episode": 9
+      },
+      "execution": "Stabbed to death by the Sons of the Harpy",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Selyse Baratheon",
+      "role": "Wife of Stannis Baratheon",
+      "death": {
+        "season": 5,
+        "episode": 10
+      },
+      "execution": "Hangs herself following the death of her daughter",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Stannis Baratheon",
+      "role": "Lord of Dragonstone, brother of Robert and Renly Baratheon, claimant to the Iron Throne",
+      "death": {
+        "season": 5,
+        "episode": 10
+      },
+      "execution": "Executed by Brienne of Tarth",
+      "likelihoodOfReturn": "50% (We don’t actually see Brienne kill Stannis)"
+    },
+    {
+      "name": "Myranda",
+      "role": "Servant of House Bolton and Ramsay Snow’s lover",
+      "death": {
+        "season": 5,
+        "episode": 10
+      },
+      "execution": "Pushed off a ledge by Theon Grejoy",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Meryn Trant",
+      "role": "Knight in the Kingsguard",
+      "death": {
+        "season": 5,
+        "episode": 10
+      },
+      "execution": "Blinded and stabbed before having his throat slit by Arya Stark",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Myrcella Baratheon",
+      "role": "Daughter of Cersei Lannister and Jaime Lannister, sister to King Tommen Baratheon",
+      "death": {
+        "season": 5,
+        "episode": 10
+      },
+      "execution": "Poisoned with a kiss by Ellaria Sand with the help of the Sand Snakes",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Jon Snow",
+      "role": "Commander of the Night’s Watch, bastard son of Eddard Stark (or maybe not)",
+      "death": {
+        "season": 5,
+        "episode": 10
+      },
+      "execution": "Stabbed by Night’s Watch mutineers, including Alliser Thorne and Olly",
+      "likelihoodOfReturn": "100% (Resurrected by Melisandre)"
+    },
+    {
+      "name": "Areo Hotah",
+      "role": "Captain of the Guard for the Martells",
+      "death": {
+        "season": 6,
+        "episode": 1
+      },
+      "execution": "Stabbed in the back by Tyene, one of the Sand Snakes",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Doran Martell",
+      "role": "Prince of Dorne",
+      "death": {
+        "season": 6,
+        "episode": 1
+      },
+      "execution": "Stabbed in the chest by Ellaria Sand",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Trystane Martell",
+      "role": "Prince of Dorne, betrothed to Myrcella",
+      "death": {
+        "season": 6,
+        "episode": 1
+      },
+      "execution": "Impaled through the back of the head by Obara, one of the Sand Snakes",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "The Flasher",
+      "role": "Man who flashes Cersei Lannister during her walk of atonement",
+      "death": {
+        "season": 6,
+        "episode": 2
+      },
+      "execution": "Head smashed against a wall by Gregor Clegane, a.k.a The Mountain",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Roose Bolton",
+      "role": "Lord of the Dreadfort, Warden of the North",
+      "death": {
+        "season": 6,
+        "episode": 2
+      },
+      "execution": "Stabbed in the chest by his own son, Ramsay Bolton",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Walda Bolton",
+      "role": "Wife to Roose Bolton, granddaughter of Walder Frey",
+      "death": {
+        "season": 6,
+        "episode": 2
+      },
+      "execution": "Mauled to death by Ramsay Bolton’s dogs",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Unnamed Bolton Child",
+      "role": "Child of Roose and Walda Bolton",
+      "death": {
+        "season": 6,
+        "episode": 2
+      },
+      "execution": "Mauled to death by Ramsay Bolton’s dogs",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Balon Greyjoy",
+      "role": "Lord of the Iron Islands",
+      "death": {
+        "season": 6,
+        "episode": 2
+      },
+      "execution": "Thrown from a bridge by his brother, Euron Greyjoy",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Alliser Thorne",
+      "role": "Acting Lord Commander of the Night’s Watch",
+      "death": {
+        "season": 6,
+        "episode": 3
+      },
+      "execution": "Hanged for treason by Jon Snow",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Olly",
+      "role": "Steward of the Night’s Watch",
+      "death": {
+        "season": 6,
+        "episode": 3
+      },
+      "execution": "Hanged for treason by Jon Snow",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Ser Arthur Dayne",
+      "role": "Member of the Kingsguard of King Aerys II Targaryen",
+      "death": {
+        "season": 6,
+        "episode": 3,
+        "isFlashback": true
+      },
+      "execution": "Stabbed in the back by Howland Reed and partially decapitated by Ned Stark",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Osha",
+      "role": "Wildling loyal to Rickon Stark",
+      "death": {
+        "season": 6,
+        "episode": 4
+      },
+      "execution": "Stabbed in the neck by Ramsay Bolton",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Khal Moro",
+      "role": "Khal who presides over khalar vezhven",
+      "death": {
+        "season": 6,
+        "episode": 4
+      },
+      "execution": "Burned alive along with the other khals by Daenerys Targaryen",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Three-Eyed Raven",
+      "role": "Sorcerer and Bran’s mentor ",
+      "death": {
+        "season": 6,
+        "episode": 5
+      },
+      "execution": "Killed by the Night King",
+      "likelihoodOfReturn": "25% (Yes, his body is gone, but with time travel in play Bran could be seeing him again)"
+    },
+    {
+      "name": "Leaf",
+      "role": "Child of the Forest ",
+      "death": {
+        "season": 6,
+        "episode": 5
+      },
+      "execution": "Committed suicide with explosive device when attacked by Wights to save Bran",
+      "likelihoodOfReturn": " 0%"
+    },
+    {
+      "name": "Hodor",
+      "role": "Servant to the House Stark",
+      "death": {
+        "season": 6,
+        "episode": 5
+      },
+      "execution": "Torn apart by Wights",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Aerys II Targaryen, “The Mad King”",
+      "role": "Lord of the Seven Kingdoms",
+      "death": {
+        "season": 6,
+        "episode": 6,
+        "isFlashback": true
+      },
+      "execution": "Stabbed in the back by Jaime Lannister",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Brother Ray",
+      "role": "Faith of the Seven Septon",
+      "death": {
+        "season": 6,
+        "episode": 7
+      },
+      "execution": "Hanged by rogue members of the Brotherhood Without Banners",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Lem",
+      "role": "Member of Brotherhood Without Banners",
+      "death": {
+        "season": 6,
+        "episode": 8
+      },
+      "execution": "Hanged by the Hound",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Brynden Tully (The Blackfish)",
+      "role": "Lord of Riverrun",
+      "death": {
+        "season": 6,
+        "episode": 8
+      },
+      "execution": "Killed defending Riverrun",
+      "likelihoodOfReturn": "50% (We don’t actually see the Blackfish killed)"
+    },
+    {
+      "name": "Lady Crane",
+      "role": "Actress in Braavos",
+      "death": {
+        "season": 6,
+        "episode": 8
+      },
+      "execution": "Throat slit by the Waif",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "The Waif",
+      "role": "Acolyte of the Faceless Men",
+      "death": {
+        "season": 6,
+        "episode": 8
+      },
+      "execution": "Killed by Arya Stark",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Razdal mo Eraz",
+      "role": "Wise Master",
+      "death": {
+        "season": 6,
+        "episode": 9
+      },
+      "execution": "Throat cut by Grey Worm",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Belicho Paenymion",
+      "role": "Volantis Nobleman",
+      "death": {
+        "season": 6,
+        "episode": 9
+      },
+      "execution": "Throat cut by Grey Worm",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Rickon Stark",
+      "role": "Lord of House Stark",
+      "death": {
+        "season": 6,
+        "episode": 9
+      },
+      "execution": "Shot with an arrow in the back by Ramsay Bolton",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Jon Umber",
+      "role": "Lord of House Umber",
+      "death": {
+        "season": 6,
+        "episode": 9
+      },
+      "execution": "Throat torn out and head stabbed by Tormund",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Wun Weg Wun Dar Wun",
+      "role": "Giant in Wildling army",
+      "death": {
+        "season": 6,
+        "episode": 9
+      },
+      "execution": "Shot through the eye by Ramsay Bolton",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Ramsay Bolton",
+      "role": "Warden of the North",
+      "death": {
+        "season": 6,
+        "episode": 9
+      },
+      "execution": "Eaten alive by his hounds on the order of Sansa Stark",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Grand Maester Pycelle",
+      "role": "Grand Maester in King’s Landing",
+      "death": {
+        "season": 6,
+        "episode": 10
+      },
+      "execution": "Stabbed by one of Quburn’s little birds",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Lancel",
+      "role": "A brother with the Sparrows",
+      "death": {
+        "season": 6,
+        "episode": 10
+      },
+      "execution": "Stabbed by one of Qyburn’s little birds, blown up by wildfire",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "The High Sparrow",
+      "role": "High Septon",
+      "death": {
+        "season": 6,
+        "episode": 10
+      },
+      "execution": "Burned alive in a wildfire explosion orchestrated by Cersei",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Loras Tyrell",
+      "role": "Former Lord Commander",
+      "death": {
+        "season": 6,
+        "episode": 10
+      },
+      "execution": "Burned alive in a wildfire explosion orchestrated by Cersei",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Mace Tyrell",
+      "role": "Lord of Highgarden, Warden of the South",
+      "death": {
+        "season": 6,
+        "episode": 10
+      },
+      "execution": "Burned alive in a wildfire explosion orchestrated by Cersei",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Kevan Lannister",
+      "role": "Hand of the King",
+      "death": {
+        "season": 6,
+        "episode": 10
+      },
+      "execution": "Burned alive in a wildfire explosion orchestrated by Cersei",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Margaery Tyrell",
+      "role": "Queen of the Seven Kingdoms",
+      "death": {
+        "season": 6,
+        "episode": 10
+      },
+      "execution": "Burned alive in a wildfire explosion orchestrated by Cersei",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Tommen Baratheon",
+      "role": "Lord of the Seven Kingdoms",
+      "death": {
+        "season": 6,
+        "episode": 10
+      },
+      "execution": "Committed suicide by jumping from a window following Maergery’s death by wildfire as orchestrated by Cersei",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Walder Rivers",
+      "role": "Bastard son of Walder Frey",
+      "death": {
+        "season": 6,
+        "episode": 10
+      },
+      "execution": "Killed and baked in a pie by Arya Stark",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Lothar Frey",
+      "role": "Son of Walder Frey",
+      "death": {
+        "season": 6,
+        "episode": 10
+      },
+      "execution": "Killed and baked into a pie by Arya Stark",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Walder Frey",
+      "role": "Lord of the Crossing, Lord of Riverrun",
+      "death": {
+        "season": 6,
+        "episode": 10
+      },
+      "execution": "Throat slit by Arya Stark",
+      "likelihoodOfReturn": "0%"
+    },
+    {
+      "name": "Lyanna Stark",
+      "role": "Sister of Eddard Stark, Mother of Jon Snow",
+      "death": {
+        "season": 6,
+        "episode": 10
+      },
+      "execution": "Died after giving birth to Jon Snow during Robert’s Rebellion",
+      "likelihoodOfReturn": "0%"
+    }
+  ]
+}

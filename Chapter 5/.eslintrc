@@ -1,0 +1,19 @@
+{
+  extends: "airbnb",
+  parser: "babel-eslint",
+  "plugins": [
+    "babel"
+  ],
+  rules: {
+    "newline-per-chained-call": [1, {"ignoreChainWithDepth": 2}],
+    "babel/generator-star-spacing": 1,
+    "generator-star-spacing": 0,
+    "no-console": 0,
+    "no-unused-vars": 1,
+  },
+  "root": true,
+  "settings": {},
+  env: {
+    browser: true
+  }
+}

@@ -1,0 +1,25 @@
+.selected {
+  fill: red;
+}
+
+.buttons {
+  display: flex;
+}
+
+.buttons button {
+  flex-grow: 1;
+  color: white;
+  background: black;
+  border: 2px solid white;
+  transition: .5s background;
+}
+
+.buttons button.active {
+  background: steelblue;
+}
+
+.words {
+  padding: .5em;
+  text-align: center;
+  font-size: 1.5em;
+}
